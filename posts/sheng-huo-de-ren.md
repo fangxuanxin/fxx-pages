@@ -1,7 +1,7 @@
 # 生活的人
 
-> 发布：2026-11-04 · 标签：随笔
-> 作者：FXX · 网页版：https://fxx.me/posts/sheng-huo-de-ren/
+> 发布: 2026-11-04 · 标签: 随笔
+> 作者: FXX · 网页版: https://fxx.me/posts/sheng-huo-de-ren/
 
 大环境不好；没钱赚；保本就行。
 

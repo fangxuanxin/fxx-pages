@@ -1,7 +1,7 @@
 # 一只新iPhone
 
-> 发布：2026-11-04 · 标签：随笔
-> 作者：FXX · 网页版：https://fxx.me/posts/yi-zhi-xin-iphone/
+> 发布: 2026-11-04 · 标签: 随笔
+> 作者: FXX · 网页版: https://fxx.me/posts/yi-zhi-xin-iphone/
 
 是从什么时候开始的呢，拿到一部新 iPhone，开心还没过去，心里先冒出一个念头：怎么和我上一部差不多。
 
