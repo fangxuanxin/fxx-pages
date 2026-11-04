@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- FXX 站点标识「FX」：墨绿底、米白几何笔画（矮而舒展，字高 22、整体宽 38），笔画为路径不依赖字体 -->
+  <rect width="64" height="64" rx="15" fill="#2a4a45"/>
+  <g fill="none" stroke="#f2ead8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M13 21V43M13 21H26M13 32H23.5"/>
+    <path d="M32 21L51 43M51 21L32 43"/>
+  </g>
+</svg>
