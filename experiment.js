@@ -17,6 +17,7 @@
   }, true);
   let lastPayload = '';
   function send() {
+    if (observer) for (const entry of observer.takeRecords()) largestPaint = entry.startTime;
     const paint = performance.getEntriesByType('paint').find((entry) => entry.name === 'first-contentful-paint');
     const payload = JSON.stringify({
       id: script.dataset.id, proof: script.dataset.proof,
